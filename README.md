@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 
+A CS student who is always ready for challenging tasks and open to learn new skills and techniques.
 <!--
 **maryambibi1/maryambibi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
